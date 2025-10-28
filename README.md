@@ -1,8 +1,6 @@
-- █▀█ █▀▀ █▀▄ █▀█ █▀█ 
-- █▀▀ █▄▄ █▄▀ █▀▄ █▄█ 
-
-# 👋 Pedro Ryan Baier Machado
 ```diff
+# Pedro Ryan Baier Machado
+
 - STATUS: Estudante | Python | Data Analistics | Aspiring ML Engineer
 
 - 💀 Sobre:
@@ -11,17 +9,18 @@ Estudante técnico de Informática.
 Python, backend, IA. CEO/Dev do LearnMaster — flashcards inteligentes.
 Meta: ML Engineer + USP.
 
-🛠 Skills & Tools
+- 🛠 Skills & Tools
 
 Python | Git | VSCode
 
-🔗 Links
+- 🔗 Links
 Email: pedroryanbayer@gmail.com
 
 Projeto principal: LearnMaster
 
-Portfolio: Em breve...
-$ python run_project.py
+- Portfolio: Em breve...
+
+> $ python run_project.py
 > Connecting to LearnMaster mainframe...
 > Access granted.
 > Initializing AI flashcards...
