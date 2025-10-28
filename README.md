@@ -1,16 +1,29 @@
-## Hi there 👋
+- █▀█ █▀▀ █▀▄ █▀█ █▀█ 
+- █▀▀ █▄▄ █▄▀ █▀▄ █▄█ 
 
-<!--
-**PedroBayerMachado/PedroBayerMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Pedro Ryan Baier Machado
+```diff
+- STATUS: Estudante | Python | Data Analistics | Aspiring ML Engineer
 
-Here are some ideas to get you started:
+- 💀 Sobre:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante técnico de Informática.
+Python, backend, IA. CEO/Dev do LearnMaster — flashcards inteligentes.
+Meta: ML Engineer + USP.
+
+🛠 Skills & Tools
+
+Python | Git | VSCode
+
+🔗 Links
+Email: pedroryanbayer@gmail.com
+
+Projeto principal: LearnMaster
+
+Portfolio: Em breve...
+$ python run_project.py
+> Connecting to LearnMaster mainframe...
+> Access granted.
+> Initializing AI flashcards...
+
+"Código limpo: direto, elegante e sem enrolação." ⚡
