@@ -27,9 +27,9 @@ Estudante técnico de Informática com foco na interseção entre Ciência de Da
 
 ## Projetos em Destaque
 
-### [EmeraldHub](https://emeraldhub.vercel.app)
+### [Sapphire](https://sapphireupdate.vercel.app/)
 *Aplicações Web e Soluções em Software*
-* **Link:** [emeraldhub.vercel.app](https://emeraldhub.vercel.app)
+* **Link:** [sapphireupdate.vercel.app](https://sapphireupdate.vercel.app/)
 * **Destaques:** Interface e infraestrutura otimizadas, foco em desempenho e arquitetura limpa.
 
 ### Análise Atuarial e Modelagem de Risco (Em desenvolvimento)
