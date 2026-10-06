@@ -1,5 +1,5 @@
 # Pedro Ryan Baier Machado
-> Técnico em Informática | Foco em Ciências Atuariais, Análise de Dados e ML
+> SQL | Excel | Python | Power BI - Ciências Atuariais, Análise & Ciencia de Dados e Machine Learning
 
 [LinkedIn](https://br.linkedin.com/in/pedrobayermachado) | [GitHub](https://github.com/PedroBayerMachado) | [Email](mailto:pedroryanbayer@gmail.com)
 
